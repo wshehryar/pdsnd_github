@@ -8,7 +8,7 @@ Readme file was created on 23rd January 2024.
 Explore US Bikeshare Data
 
 ### Description
-This project is utilizing Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. 
+This project has been completed utilizing Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. 
 The bikeshare.py file is set up as a script that takes in raw input to create an interactive experience in the terminal that answers questions about the dataset. The experience is interactive because depending on a user's input, the answers to the questions on the previous page will change! There are four questions that will change the answers:
     Would you like to see data for Chicago, New York, or Washington?
     Would you like to filter the data by month, day, or not at all?
