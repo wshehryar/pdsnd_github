@@ -37,7 +37,7 @@ Statistics Computed
     earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
 ### Files used
-Following fileas were used to complete this project.
+Following fileas were used to complete this project. Files imported from udacity program
   chicago.csv
   new_york_city.csv
   washington.csv
