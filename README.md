@@ -44,7 +44,7 @@ Following fileas were used to complete this project. Files imported from udacity
 
 ### Credits
 Following are the important links consulted during the project completion.
-https://learn.udacity.com/nanodegrees/nd104/parts/cd0024/lessons/ls1727/concepts/9855e878-9d53-4933-a598-8b91aa130959
-https://stackoverflow.blog/2021/07/14/getting-started-with-python/
-https://docs.python.org/3/tutorial/
-https://www.learnpython.org/
+1. https://learn.udacity.com/nanodegrees/nd104/parts/cd0024/lessons/ls1727/concepts/9855e878-9d53-4933-a598-8b91aa130959
+2. https://stackoverflow.blog/2021/07/14/getting-started-with-python/
+3. https://docs.python.org/3/tutorial/
+4. https://www.learnpython.org/
